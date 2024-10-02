@@ -1,0 +1,140 @@
+@font-face {
+    font-family: Mustang;
+    src: url(fonts/Black\ Mustang.ttf);
+    /* Se quiser usar a fonte crie font-family e coloque o nome de sua fonte */
+}
+mark {
+    background-color: rgb(224, 138, 138);
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px 3px black;black;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.342);
+    }
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    height: 35px;
+}
+
+details {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-shadow: 7px 7px 7px black;
+    text-align: center;
+}
+
+p {
+        font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+    font-style: italic;
+}
+
+button {
+    border-radius: 40px;
+    align-items: center;
+}
+
+body {
+   background-image: linear-gradient(to right, rgba(161, 135, 95, 0.774), rgba(146, 192, 39, 0.486) ,rgba(226, 222, 10, 0.514));
+}
+
+video {
+    align-items: center;
+}
+
+img {
+    border-radius: 10px;
+    width: 1000px;
+    height: 800px;
+    text-align: center;
+}
+
+video {
+    
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+}
+
+div {
+    background-color: rgba(227, 235, 235, 0.637);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    margin: auto;
+    padding: 5px;
+}
+
+p {
+    text-align: justify;
+    font-weight: lighter;
+}
+
+h2 {
+    text-shadow: 1px 2px 3px rgb(0, 0, 0);
+}
+
+.ingredientes {
+    background-color: rgb(97, 92, 92);
+    box-shadow: 5px 5px 5px black;
+    text-shadow: 1px 1px 2px rgb(236, 17, 17);
+    
+}
+
+summary {
+    font-weight: bolder;
+    font-size: 2em;
+    color: brown;
+    text-decoration: none;
+}
+
+.menu:hover {
+    background-color: rgba(3, 0, 0, 0.329);
+    font-size: 2em;
+}
+
+.menu1:hover {
+    background-color: rgba(0, 0, 0, 0.384);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    cursor: pointer
+    
+}
+
+a:link {
+    text-decoration: none;
+}
+
+button {
+    border-radius: 5px;
+    border-color: black;
+    border-width: 3px;
+    cursor: pointer;
+}
+
+#d1 {
+    text-align: center;
+    background-color: rgba(11, 127, 228, 0);
+    box-shadow: none;
+
+   
+}
+
+#d2 {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0);
+    box-shadow: none;
+    
+}
+
+#d1:hover {
+    display: ;
+}
